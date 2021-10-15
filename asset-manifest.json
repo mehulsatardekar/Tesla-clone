@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tesla-clone/static/css/main.19e8642b.chunk.css",
+    "main.js": "/Tesla-clone/static/js/main.9848fc44.chunk.js",
+    "main.js.map": "/Tesla-clone/static/js/main.9848fc44.chunk.js.map",
+    "runtime-main.js": "/Tesla-clone/static/js/runtime-main.f731e0b4.js",
+    "runtime-main.js.map": "/Tesla-clone/static/js/runtime-main.f731e0b4.js.map",
+    "static/js/2.1f8c7b05.chunk.js": "/Tesla-clone/static/js/2.1f8c7b05.chunk.js",
+    "static/js/2.1f8c7b05.chunk.js.map": "/Tesla-clone/static/js/2.1f8c7b05.chunk.js.map",
+    "static/js/3.cd77e23f.chunk.js": "/Tesla-clone/static/js/3.cd77e23f.chunk.js",
+    "static/js/3.cd77e23f.chunk.js.map": "/Tesla-clone/static/js/3.cd77e23f.chunk.js.map",
+    "index.html": "/Tesla-clone/index.html",
+    "static/css/main.19e8642b.chunk.css.map": "/Tesla-clone/static/css/main.19e8642b.chunk.css.map",
+    "static/js/2.1f8c7b05.chunk.js.LICENSE.txt": "/Tesla-clone/static/js/2.1f8c7b05.chunk.js.LICENSE.txt",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/Tesla-clone/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.30651f79.jpeg": "/Tesla-clone/static/media/Desktop-Model3.30651f79.jpeg",
+    "static/media/Desktop-ModelX.83417303.jpeg": "/Tesla-clone/static/media/Desktop-ModelX.83417303.jpeg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpeg": "/Tesla-clone/static/media/Desktop-SolarPanels.d7d441d7.jpeg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpeg": "/Tesla-clone/static/media/Desktop-SolarRoof.9eb2e602.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f731e0b4.js",
+    "static/js/2.1f8c7b05.chunk.js",
+    "static/css/main.19e8642b.chunk.css",
+    "static/js/main.9848fc44.chunk.js"
+  ]
+}
