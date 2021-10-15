@@ -1,0 +1,20 @@
+.bg-nav-coolor{
+    background-color: #ADC7D8;
+
+}
+
+.ft-w{
+  font-weight: bold;
+}
+
+li:hover{
+    border-radius: 15px;
+    background-color: #9bb7ca;
+}
+
+
+@media (min-width:200px) and (max-width:500px){
+    .hide-md{
+       display: none;
+    }
+}

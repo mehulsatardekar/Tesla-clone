@@ -1,0 +1,40 @@
+body::-webkit-scrollbar {
+  width: 0.8em;
+  scroll-behavior: smooth;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+  border-radius: 23px;
+}
+.ft-big-size{
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.ft-low-size{
+  font-size: 1.2em;
+  font-weight: 400;
+  color: rgb(65, 57, 57);
+}
+
+.top-100 {
+  top: 89%!important;
+}
+
+.bts{
+  padding: 5px 60px 5px 60px;
+  border-radius: 3em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.btn-white{
+ background-color: #e9e7e7;
+}
